@@ -1,12 +1,12 @@
 [submodule "homelab-ansible"]
 	path = homelab-ansible
-	url = git@github.com:sfenzke/homelab-ansible.git
+	url = gitea@gitea01v.local.sfenzke.de:sfenzke/homelab-ansible.git
 	branch = main 
 [submodule "homelab-terraform"]
 	path = homelab-terraform
-	url = git@github.com:sfenzke/homelab-terraform.git
+	url = gitea@gitea01v.local.sfenzke.de:sfenzke/homelab-terraform.git
 	branch = main 
 [submodule "homelab-collection"]
 	path = homelab-collection
-	url = git@github.com:sfenzke/homelab-collection.git
+	url = gitea@gitea01v.local.sfenzke.de:sfenzke/homelab-collection.git
 	branch = main 
